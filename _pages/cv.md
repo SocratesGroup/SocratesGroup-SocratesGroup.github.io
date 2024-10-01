@@ -1,8 +1,8 @@
 ---
 title: "CV"
-header_type: hero
+header_type: image
 permalink: /cv
-header_img: "https://en.wikipedia.org/wiki/Socrates#/media/File:Alcibades_being_taught_by_Socrates,_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg"
+header_img: "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
 categories: [picture]
 tags: [landscape, trips, downtown, edinburgh, kramdown, bootstrap, wikipedia, demo, image]
 author:

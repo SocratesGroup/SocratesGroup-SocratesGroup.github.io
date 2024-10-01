@@ -101,6 +101,8 @@ navbar:
     url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
+  - title   : CV
+    url     : /cv
 #  - title   : Extras
 #    child   :
 #     - title : Tags

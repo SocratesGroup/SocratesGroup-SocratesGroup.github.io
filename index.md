@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Socrates Group
-header_type: hero #splash
+header_type: splash # hero 
 subtitle: Starter pack
 header_img: "assets/img/1920px-Alcibades_being_taught_by_Socrates.jpg"
 ---

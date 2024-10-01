@@ -144,7 +144,7 @@ googlefonts:
 chulapa-skin: 
   highlight     :  "ZENBURN" # default["default"]
   skin         : gitdev # sketchy # twitter-dim # Optional predefined skins https://dieghernan.github.io/chulapa/skins
-  autothemer    :  true # Bool: Use autotheming
+  autothemer    :  false # Bool: Use autotheming
 #  vars          :    
 #    primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
     

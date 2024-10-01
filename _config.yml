@@ -99,8 +99,8 @@ navbar:
   nav:
   - title   : News # Label
     url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
+#  - title   : Tips
+#    url     : /cheatsheets
   - title   : CV
     url     : /cv
 #  - title   : Extras

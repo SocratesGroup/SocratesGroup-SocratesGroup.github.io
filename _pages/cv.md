@@ -2,7 +2,7 @@
 title: "CV"
 header_type: hero
 permalink: /cv
-header_img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg"
+header_img: "https://en.wikipedia.org/wiki/Socrates#/media/File:Alcibades_being_taught_by_Socrates,_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg"
 categories: [picture]
 tags: [landscape, trips, downtown, edinburgh, kramdown, bootstrap, wikipedia, demo, image]
 author:
